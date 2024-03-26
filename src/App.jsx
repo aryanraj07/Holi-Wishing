@@ -16,8 +16,8 @@ function App() {
       {showMessage && (
         <div className="message">
           <p className="message-text">
-            Happy Holi, Shreya! Sending colorful wishes to you, your family,
-            uncle, aunty, and di!
+            Happy Holi, Shreya! Sending colorful wishes to you, uncle, aunty,
+            dii and whole family!
           </p>
         </div>
       )}
